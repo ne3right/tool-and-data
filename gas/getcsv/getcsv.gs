@@ -17,8 +17,14 @@ function doGet(e) {
   for (var i = 0; i < values.length; i++) {
     var rows = [];
     for (var j = 0; j < values[i].length; j++) {
-    //  rows[j] = "\"" + values[i][j] + "\"";
-      rows[j] = values[i][j];
+      var cell = values[i][j];
+      if (typeof cell === "string") {
+        cell = cell.replace(/"/g, '""');  // `"` を `""` にエスケープ
+        if (cell.includes(",") || cell.includes("\n")) {
+          cell = `"${cell}"`;  // カンマや改行がある場合は `"` で囲む
+        }
+      }      
+      rows.push(cell);
     }
  
     csv += rows.join(",");
