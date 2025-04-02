@@ -1,0 +1,234 @@
+{
+    "1": {
+        "area_name": "横浜市鶴見区",
+        "area_block": "横浜市"
+    },
+    "2": {
+        "area_name": "横浜市神奈川区",
+        "area_block": "横浜市"
+    },
+    "3": {
+        "area_name": "横浜市西区",
+        "area_block": "横浜市"
+    },
+    "4": {
+        "area_name": "横浜市中区",
+        "area_block": "横浜市"
+    },
+    "5": {
+        "area_name": "横浜市南区",
+        "area_block": "横浜市"
+    },
+    "6": {
+        "area_name": "横浜市保土ケ谷区",
+        "area_block": "横浜市"
+    },
+    "7": {
+        "area_name": "横浜市磯子区",
+        "area_block": "横浜市"
+    },
+    "8": {
+        "area_name": "横浜市金沢区",
+        "area_block": "横浜市"
+    },
+    "9": {
+        "area_name": "横浜市港北区",
+        "area_block": "横浜市"
+    },
+    "10": {
+        "area_name": "横浜市戸塚区",
+        "area_block": "横浜市"
+    },
+    "11": {
+        "area_name": "横浜市港南区",
+        "area_block": "横浜市"
+    },
+    "12": {
+        "area_name": "横浜市旭区",
+        "area_block": "横浜市"
+    },
+    "13": {
+        "area_name": "横浜市緑区",
+        "area_block": "横浜市"
+    },
+    "14": {
+        "area_name": "横浜市瀬谷区",
+        "area_block": "横浜市"
+    },
+    "15": {
+        "area_name": "横浜市栄区",
+        "area_block": "横浜市"
+    },
+    "16": {
+        "area_name": "横浜市泉区",
+        "area_block": "横浜市"
+    },
+    "17": {
+        "area_name": "横浜市青葉区",
+        "area_block": "横浜市"
+    },
+    "18": {
+        "area_name": "横浜市都筑区",
+        "area_block": "横浜市"
+    },
+    "19": {
+        "area_name": "川崎市川崎区",
+        "area_block": "川崎市"
+    },
+    "20": {
+        "area_name": "川崎市幸区",
+        "area_block": "川崎市"
+    },
+    "21": {
+        "area_name": "川崎市中原区",
+        "area_block": "川崎市"
+    },
+    "22": {
+        "area_name": "川崎市高津区",
+        "area_block": "川崎市"
+    },
+    "23": {
+        "area_name": "川崎市多摩区",
+        "area_block": "川崎市"
+    },
+    "24": {
+        "area_name": "川崎市宮前区",
+        "area_block": "川崎市"
+    },
+    "25": {
+        "area_name": "川崎市麻生区",
+        "area_block": "川崎市"
+    },
+    "26": {
+        "area_name": "相模原市緑区",
+        "area_block": "県央地区"
+    },
+    "27": {
+        "area_name": "相模原市中央区",
+        "area_block": "県央地区"
+    },
+    "28": {
+        "area_name": "相模原市南区",
+        "area_block": "県央地区"
+    },
+    "29": {
+        "area_name": "横須賀市",
+        "area_block": "横須賀三浦地区"
+    },
+    "30": {
+        "area_name": "平塚市",
+        "area_block": "湘南地区"
+    },
+    "31": {
+        "area_name": "鎌倉市",
+        "area_block": "横須賀三浦地区"
+    },
+    "32": {
+        "area_name": "藤沢市",
+        "area_block": "湘南地区"
+    },
+    "33": {
+        "area_name": "小田原市",
+        "area_block": "県西地区"
+    },
+    "34": {
+        "area_name": "茅ケ崎市",
+        "area_block": "湘南地区"
+    },
+    "35": {
+        "area_name": "逗子市",
+        "area_block": "横須賀三浦地区"
+    },
+    "36": {
+        "area_name": "三浦市",
+        "area_block": "横須賀三浦地区"
+    },
+    "37": {
+        "area_name": "秦野市",
+        "area_block": "湘南地区"
+    },
+    "38": {
+        "area_name": "厚木市",
+        "area_block": "県央地区"
+    },
+    "39": {
+        "area_name": "大和市",
+        "area_block": "県央地区"
+    },
+    "40": {
+        "area_name": "伊勢原市",
+        "area_block": "湘南地区"
+    },
+    "41": {
+        "area_name": "海老名市",
+        "area_block": "県央地区"
+    },
+    "42": {
+        "area_name": "座間市",
+        "area_block": "県央地区"
+    },
+    "43": {
+        "area_name": "南足柄市",
+        "area_block": "県西地区"
+    },
+    "44": {
+        "area_name": "綾瀬市",
+        "area_block": "県央地区"
+    },
+    "45": {
+        "area_name": "三浦郡葉山町",
+        "area_block": "横須賀三浦地区"
+    },
+    "46": {
+        "area_name": "高座郡寒川町",
+        "area_block": "湘南地区"
+    },
+    "47": {
+        "area_name": "中郡大磯町",
+        "area_block": "湘南地区"
+    },
+    "48": {
+        "area_name": "中郡二宮町",
+        "area_block": "県西地区"
+    },
+    "49": {
+        "area_name": "足柄上郡中井町",
+        "area_block": "県西地区"
+    },
+    "50": {
+        "area_name": "足柄上郡大井町",
+        "area_block": "県西地区"
+    },
+    "51": {
+        "area_name": "足柄上郡松田町",
+        "area_block": "県西地区"
+    },
+    "52": {
+        "area_name": "足柄上郡山北町",
+        "area_block": "県西地区"
+    },
+    "53": {
+        "area_name": "足柄上郡開成町",
+        "area_block": "県西地区"
+    },
+    "54": {
+        "area_name": "足柄下郡箱根町",
+        "area_block": "県西地区"
+    },
+    "55": {
+        "area_name": "足柄下郡真鶴町",
+        "area_block": "県西地区"
+    },
+    "56": {
+        "area_name": "足柄下郡湯河原町",
+        "area_block": "県西地区"
+    },
+    "57": {
+        "area_name": "愛甲郡愛川町",
+        "area_block": "県央地区"
+    },
+    "58": {
+        "area_name": "愛甲郡清川村",
+        "area_block": "県央地区"
+    }
+}
